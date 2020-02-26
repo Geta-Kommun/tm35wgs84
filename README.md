@@ -1,4 +1,4 @@
-# tm35wgs84
+# TM35-FIN to WGS84
 Convert TM35 coordinates to WGS84, for more info about coordinate systems see https://epsg.io/3067
 
 # Perl script
