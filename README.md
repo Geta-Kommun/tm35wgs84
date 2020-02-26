@@ -10,4 +10,4 @@ Geo::Coordinates::ETRSTM35FIN
 Data::Dumper
 
 # Run
-Run with command "perl tm35wgs84.pl"
+Run with command "perl tm35_to_wgs84.pl"
